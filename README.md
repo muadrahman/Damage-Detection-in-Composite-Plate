@@ -1,1 +1,1 @@
-# mDamage-Detection-in-Coposite-Plate
+# This project focuses on the application of machine learning algorithms to detect damage in composite plates, leveraging both classification and regression techniques. The project successfully implements two classification algorithms (Support Vector Machine and K-Nearest Neighbors) and two regression algorithms (Random Forest and CatBoost).
