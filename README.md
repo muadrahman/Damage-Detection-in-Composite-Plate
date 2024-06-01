@@ -339,28 +339,13 @@ The provided code involves various stages, including data loading, preprocessing
 
 ## Contact Information
 
-For inquiries, feedback, or support, please reach out to:
+For inquiries, feedback, or support, please feel free to reach out to:
+- **Email:** [mr.muadrahman@gmail.com](mailto:mr.muadrahman@gmail.com)
+- **LinkedIn:** [Muad Rahman](https://www.linkedin.com/in/muadrahman/)
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/yourprofile)
 
 ## Resources
 
 - [Article on Composite Material Damage Detection](#)
 - [Tutorial on Machine Learning for Structural Health Monitoring](#)
 - [GitHub Repository of Related Tools](#)
-
-
-## Contact Information
-
-For inquiries, feedback, or support, please feel free to reach out to:
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-name/)
-
----
-
-## Resources
-
-- [Article on Composite Material Damage Detection](link-to-article)
-- [Tutorial on Machine Learning for Structural Health Monitoring](link-to-tutorial)
-- [GitHub Repository of Related Tools](link-to-repository)
